@@ -1,6 +1,9 @@
 _repo: Omenapuu_72530
 _version: 0.1.0
 alternative_title: The apple tree. Finnish
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/850
     wikipedia: https://en.wikipedia.org/wiki/John_Galsworthy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72530#Omenapuu
 gutenberg_issued: '2023-12-28'
 gutenberg_type: Text
 identifiers:
